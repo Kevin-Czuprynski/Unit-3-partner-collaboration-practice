@@ -1,0 +1,1 @@
+Question 1: We use **branches** when we are trying to fix typos or if we want to work on a different branch.
